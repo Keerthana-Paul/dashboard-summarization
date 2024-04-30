@@ -16,10 +16,10 @@ project_name: "dashboard-summarization-extension"
 #   }
 # }
 
-# constant: CONNECTION_NAME {
-#   value: ""
-#   export: override_optional
-# }
+constant: CONNECTION_NAME {
+  value: ""
+  export: override_optional
+}
 
 
 application: dashboard-summarization {
